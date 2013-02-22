@@ -1,0 +1,9 @@
+/*Ashutosh Singla  <ashu1461@gmail.com>
+programm-> 'net1.c'
+date->Sun Oct 28 15:18:17 IST 2012*/
+#include<stdio.h>
+int main()
+{
+return 0;
+}
+
