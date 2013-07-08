@@ -1,0 +1,24 @@
+# Ashutosh Singla - 201101106
+README !! 
+run ./1.sh along with ./201101106 to run the game
+all the files are required to run the game ! 
+The main motive of the game is to collect coins , food and power and to kill the Enemy robot after collecting a certain number of points ! 
+After you collect a certain number of coins , food , power you can press m to generate a power ball to kill the robot ! 
+Tile Modes :- 
+-->Static tiles :- These are static in nature ! 
+-->Up and Static :- Raised upto an level ! 
+-->Down and Static :- Raised down ! 
+-->MOVING :- THESE BLOCKS CAN MOVE UPSIDDE DOWN AND SIDEWAYS ! 
+-->WALL :- One can break the wall by pressing r which releases the power ball
+Extra Stuff ! :-
+-->Boost :- On taking this the speed increases to a certain extent .
+-->Jump by applying j
+-->You die if you fall in a pit or go near to a enemy robot ! 
+Views --> First Person , Third person , Tower View , Tile view , Enemy view an extra implementation 
+Use arrow keys to move the world and w,s,a,d to move the player 
+Use f and B to move world vertically 
+Use b to boost (cheat code)
+Online Help :- 
+nehe.gamedev.net (for texture mapping)
+Quake 2 (for md2 models)
+
